@@ -1,4 +1,4 @@
 files:
   -
-    source: '/**/*.txt'
-    tranclation: '/**/%two_letters_code%_%original_file_name%'
+    source: /**/*.txt
+    tranclation: /**/%two_letters_code%_%original_file_name%
