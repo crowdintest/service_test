@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="string_name" >red xml</string>
-    <string name="string_name1" >green xml</string>
+    <string1 name="string_name1" >green xml</string>
 </resources>
