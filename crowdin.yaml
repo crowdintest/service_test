@@ -8,4 +8,4 @@ files:
    scheme: "identifier,source_phrase,context,uk,fr"
    multilingual_spreadsheet: true
    translatable_elements:
-      - "/resources/string1"
+      - '/resources/string1'
