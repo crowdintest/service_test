@@ -1,7 +1,7 @@
 files:
-  -
+  - 
     source: '/**/gitXpath.*'
     translatable_elements:
-      - '/resources/string'
+      - /resources/string
     ignore:
-      - '1fr_strings.xml'
+      - 1fr_strings.xml
