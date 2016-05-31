@@ -1,6 +1,9 @@
 files:
-  - 
+  -
     source: '/**/*.*'
     translation: '/**/%two_letters_code%_%original_file_name%'
     ignore:
-      - 'fr_github.xml'
+      - '1fr_strings.xml'
+   first_line_contains_header: true
+   scheme: "identifier,source_phrase,context,uk,fr"
+   multilingual_spreadsheet: true
