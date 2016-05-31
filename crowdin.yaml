@@ -7,3 +7,5 @@ files:
    first_line_contains_header: true
    scheme: "identifier,source_phrase,context,uk,fr"
    multilingual_spreadsheet: true
+   translatable_elements:
+      - "/resources/string1"
